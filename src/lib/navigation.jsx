@@ -13,7 +13,7 @@ export const mainMenu = [
 	{
 		title: "Performance",
 		icon: "eos-icons:performance",
-		path: "/perfomance",
+		path: "/performance",
 	},
 	{
 		title: "Staff Management",
